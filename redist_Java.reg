@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\JavaSoft\Java Update\Policy]
+"EnableJavaUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Update\Policy]
+"EnableJavaUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\JreMetrics]
+"DisableSponsors"="Y"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JreMetrics]
+"DisableSponsors"="Y"

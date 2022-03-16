@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MicrosoftEdgeElevationService]
+
+[-HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\edgeupdate]
+
+[-HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\edgeupdatem]
+
+[-HKEY_CURRENT_USER\Software\Classes\microsoft-edge-holographic]
+
+[-HKEY_CURRENT_USER\Software\Classes\microsoft-edge]
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\EdgeUpdate]
+"Install{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}"=dword:00000000
+"Update{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}"=dword:00000000
+"AutoUpdateCheckPeriodMinutes"=dword:00043200
+"InstallDefault"=dword:00000000
+"Allowsxs"=dword:00000000
+"CreateDesktopShortcutDefault"=dword:00000000
+"UpdateDefault"=dword:00000000
